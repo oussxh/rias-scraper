@@ -1,0 +1,29 @@
+*{
+}
+
+.container{
+    background-image: url(riaswallpaper.jpg);
+}
+
+.header{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: antiquewhite;
+    font-family: Tahoma;
+    color: red;
+
+    
+}
+
+
+
+.listbox{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    outline: auto;
+    height: 300px;
+    width: 400px;
+}
